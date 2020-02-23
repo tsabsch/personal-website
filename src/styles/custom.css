@@ -105,6 +105,10 @@ ul.links a:hover {
   color: lightgrey;
 }
 
+.freetime {
+  width: 50%;
+}
+
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
   .section-cta,
@@ -119,55 +123,55 @@ ul.links a:hover {
 /* Scaling typography */
 @media screen and (min-width: 500px) {
   html {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 
 @media screen and (min-width: 620px) {
   html {
-    font-size: 15px;
+    font-size: 13px;
   }
 }
 
 @media screen and (min-width: 720px) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
 @media screen and (min-width: 1000px) {
   html {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 
 @media screen and (min-width: 1200px) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 @media screen and (min-width: 1400px) {
   html {
-    font-size: 19px;
+    font-size: 17px;
   }
 }
 
 @media screen and (min-width: 1600px) {
   html {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
 @media screen and (min-width: 1800px) {
   html {
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 
 @media screen and (min-width: 2000px) {
   html {
-    font-size: 26px;
+    font-size: 24px;
   }
 }
 

@@ -18,22 +18,24 @@ const IndexPage = () => (
           <div className="section-content">
             <h1 className="headline">
               Hi, I'm <br></br>
-              <strong>Kristin Baumann</strong>.
+              <strong>Tim Sabsch</strong>.
             </h1>
             <p className="intro">
-              I love to create meaningful things on the web, pragmatically and
-              interdisciplinarly:
+                I'm a Data Scientist and Engineer, creating solutions to <i>your</i> data-driven questions. I'm currently most interested in the following fields:
             </p>
             <ul className="topics">
-              <li>- Frontend Development</li>
-              <li>- Product Management</li>
-              <li>- Data Visualisation</li>
-              <li>- UX Design</li>
+              <li>- Machine Learning</li>
+              <li>- Machine Learning in Productive Systems</li>
+              <li>- Explainable Artificial Intelligence</li>
+              <li>- AI for Social Good</li>
             </ul>
           </div>
+          <p className="freetime">
+          In my free time, I'm contributing to open source, playing piano and singing in a choir.
+          </p>
           <div className="section-cta">
-            <p>Looking for help?</p>
-            <a className="cta" href="mailto:mail@kristin-baumann.com">
+            <p>Any questions?</p>
+            <a className="cta" href="mailto:tim@sabsch.com">
               Get in contact
             </a>
           </div>
@@ -41,7 +43,7 @@ const IndexPage = () => (
         <ul className="section-interaction links">
           <li>
             <a
-              href="https://linkedin.com/in/kristinbaumann"
+              href="https://linkedin.com/in/timsabsch"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -50,7 +52,16 @@ const IndexPage = () => (
           </li>
           <li>
             <a
-              href="https://twitter.com/kristin_baumann"
+              href="https://www.xing.com/profile/Tim_Sabsch"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Xing
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://twitter.com/tsabsch"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -59,7 +70,7 @@ const IndexPage = () => (
           </li>
           <li>
             <a
-              href="https://github.com/kristinbaumann"
+              href="https://github.com/tsabsch"
               target="_blank"
               rel="noopener noreferrer"
             >
